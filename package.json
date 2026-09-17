@@ -1,0 +1,14 @@
+{
+  "name": "codmtally",
+  "version": "1.0.0",
+  "description": "Collaborative live-scoring console for CODM: BR tournaments (teams, kills, placement points, per-group leaderboards)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
